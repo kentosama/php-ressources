@@ -1,0 +1,1182 @@
+object(stdClass) {
+	amd => array(
+		(int) 0 => object(stdClass) {
+			name => 'Sempron 2650'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 1 => object(stdClass) {
+			name => ' A4-3300'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 2 => object(stdClass) {
+			name => ' A4-3300 (HX)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 3 => object(stdClass) {
+			name => 'Sempron 140'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 4 => object(stdClass) {
+			name => 'Sempron 3850'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 5 => object(stdClass) {
+			name => ' A4-3400'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 6 => object(stdClass) {
+			name => ' A4-3400 (HX)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 7 => object(stdClass) {
+			name => ' A4-4000'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 8 => object(stdClass) {
+			name => ' A4-4020'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 9 => object(stdClass) {
+			name => 'Athlon 5150'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 10 => object(stdClass) {
+			name => ' A4-5300'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 11 => object(stdClass) {
+			name => 'Athlon II X2 250 (rev. C2)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 12 => object(stdClass) {
+			name => 'Athlon II X2 255 (rev. C2)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 13 => object(stdClass) {
+			name => 'Athlon II X2 260 (rev. C3)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 14 => object(stdClass) {
+			name => 'Athlon II X2 265'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 15 => object(stdClass) {
+			name => 'Athlon II X2 280'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 16 => object(stdClass) {
+			name => 'Athlon 5350'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 17 => object(stdClass) {
+			name => ' A6-5400K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 18 => object(stdClass) {
+			name => ' A6-3500'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 19 => object(stdClass) {
+			name => 'Athlon II X3 450'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 20 => object(stdClass) {
+			name => ' A6-6400K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 21 => object(stdClass) {
+			name => 'Athlon II X2 245e'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 22 => object(stdClass) {
+			name => 'Athlon II X3 455'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 23 => object(stdClass) {
+			name => 'Athlon II X4 631'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 24 => object(stdClass) {
+			name => 'Athlon II X4 641'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 25 => object(stdClass) {
+			name => 'Athlon II X4 640'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 26 => object(stdClass) {
+			name => 'Athlon II X2 250e'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 27 => object(stdClass) {
+			name => 'Athlon II X3 460'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 28 => object(stdClass) {
+			name => 'Athlon II X3 405e (rev. C2)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 29 => object(stdClass) {
+			name => 'Athlon II X4 651'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 30 => object(stdClass) {
+			name => ' A6-3600'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 31 => object(stdClass) {
+			name => ' A6-3650'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 32 => object(stdClass) {
+			name => ' A6-3670K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 33 => object(stdClass) {
+			name => 'Athlon II X4 645'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 34 => object(stdClass) {
+			name => 'Phenom II X4 965 (140W, BE)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 35 => object(stdClass) {
+			name => 'Phenom II X2 555 BE (rev. C3)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 36 => object(stdClass) {
+			name => ' A8-3850'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 37 => object(stdClass) {
+			name => 'Athlon II X3 415e'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 38 => object(stdClass) {
+			name => 'Phenom II X2 560 BE'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 39 => object(stdClass) {
+			name => ' A8-3800'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 40 => object(stdClass) {
+			name => ' A8-3870K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 41 => object(stdClass) {
+			name => ' A8-5500'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 42 => object(stdClass) {
+			name => ' A8-5600K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 43 => object(stdClass) {
+			name => ' A8-6500'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 44 => object(stdClass) {
+			name => ' A8-6600K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 45 => object(stdClass) {
+			name => 'Athlon II X3 420e'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 46 => object(stdClass) {
+			name => 'Athlon II X4 605e (rev. C2)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 47 => object(stdClass) {
+			name => ' A8-3820'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 48 => object(stdClass) {
+			name => ' FX-4100'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 49 => object(stdClass) {
+			name => ' FX-4130'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 50 => object(stdClass) {
+			name => 'Phenom II X2 565 BE'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 51 => object(stdClass) {
+			name => ' FX-4300'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 52 => object(stdClass) {
+			name => ' A8-6500T'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 53 => object(stdClass) {
+			name => ' FX-6100'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 54 => object(stdClass) {
+			name => ' FX-6300'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 55 => object(stdClass) {
+			name => ' A10-5700'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 56 => object(stdClass) {
+			name => ' A10-5800K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 57 => object(stdClass) {
+			name => ' A10-6790K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 58 => object(stdClass) {
+			name => ' FX-4170'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 59 => object(stdClass) {
+			name => ' FX-4350'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 60 => object(stdClass) {
+			name => 'Athlon II X4 610e'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 61 => object(stdClass) {
+			name => ' FX-6200'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 62 => object(stdClass) {
+			name => ' FX-6350'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 63 => object(stdClass) {
+			name => 'Athlon II X4 615e'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 64 => object(stdClass) {
+			name => ' A10-6700'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 65 => object(stdClass) {
+			name => ' A10-6700T'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 66 => object(stdClass) {
+			name => ' A10-6800K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 67 => object(stdClass) {
+			name => 'Phenom II X4 970 (rev. C3)'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 68 => object(stdClass) {
+			name => ' A10-7700K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 69 => object(stdClass) {
+			name => ' FX-8120'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 70 => object(stdClass) {
+			name => ' FX-8320'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 71 => object(stdClass) {
+			name => 'Phenom II X4 975'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 72 => object(stdClass) {
+			name => 'Phenom II X4 980'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 73 => object(stdClass) {
+			name => ' A10-7850K'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 74 => object(stdClass) {
+			name => ' FX-8150'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 75 => object(stdClass) {
+			name => ' FX-8350'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 76 => object(stdClass) {
+			name => ' FX-9370'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		},
+		(int) 77 => object(stdClass) {
+			name => ' FX-9590'
+			speed => '4.7GHz '
+			cache => ' 8MB L3 '
+			core => ' 8 cores '
+			socket => ' Socket AM3+'
+		}
+	)
+	intel => array(
+		(int) 0 => object(stdClass) {
+			name => 'Celeron G1610'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 1 => object(stdClass) {
+			name => 'Celeron G1610T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 2 => object(stdClass) {
+			name => 'Celeron G1620'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 3 => object(stdClass) {
+			name => 'Celeron G1620T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 4 => object(stdClass) {
+			name => 'Celeron G1820'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 5 => object(stdClass) {
+			name => 'Celeron G1820T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 6 => object(stdClass) {
+			name => 'Celeron G1840'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 7 => object(stdClass) {
+			name => 'Celeron G1840T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 8 => object(stdClass) {
+			name => 'Celeron G1630'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 9 => object(stdClass) {
+			name => 'Celeron G1830'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 10 => object(stdClass) {
+			name => 'Celeron G1850'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 11 => object(stdClass) {
+			name => 'Pentium G2010'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 12 => object(stdClass) {
+			name => 'Pentium G2020'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 13 => object(stdClass) {
+			name => 'Pentium G2020T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 14 => object(stdClass) {
+			name => 'Pentium G2030'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 15 => object(stdClass) {
+			name => 'Pentium G2030T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 16 => object(stdClass) {
+			name => 'Pentium G3220'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 17 => object(stdClass) {
+			name => 'Pentium G3220T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 18 => object(stdClass) {
+			name => 'Pentium G3240'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 19 => object(stdClass) {
+			name => 'Pentium G3240T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 20 => object(stdClass) {
+			name => 'Celeron J1800'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 21 => object(stdClass) {
+			name => 'Pentium G3258'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 22 => object(stdClass) {
+			name => 'Pentium G2100T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 23 => object(stdClass) {
+			name => 'Pentium G2120'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 24 => object(stdClass) {
+			name => 'Pentium G2120T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 25 => object(stdClass) {
+			name => 'Pentium G2130'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 26 => object(stdClass) {
+			name => 'Pentium G3420'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 27 => object(stdClass) {
+			name => 'Pentium G3420T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 28 => object(stdClass) {
+			name => 'Pentium G3440'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 29 => object(stdClass) {
+			name => 'Pentium G3440T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 30 => object(stdClass) {
+			name => 'Celeron J1900'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 31 => object(stdClass) {
+			name => 'Pentium G2140'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 32 => object(stdClass) {
+			name => 'Pentium G3430'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 33 => object(stdClass) {
+			name => 'Pentium G3450'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 34 => object(stdClass) {
+			name => 'Pentium J2900'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 35 => object(stdClass) {
+			name => 'Core i3-3220'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 36 => object(stdClass) {
+			name => 'Core i3-3220T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 37 => object(stdClass) {
+			name => 'Core i3-3240'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 38 => object(stdClass) {
+			name => 'Core i3-3240T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 39 => object(stdClass) {
+			name => 'Core i3-4130'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 40 => object(stdClass) {
+			name => 'Core i3-4130T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 41 => object(stdClass) {
+			name => 'Core i3-4150'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 42 => object(stdClass) {
+			name => 'Core i3-4150T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 43 => object(stdClass) {
+			name => 'Core i3-3245'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 44 => object(stdClass) {
+			name => 'Core i3-3250'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 45 => object(stdClass) {
+			name => 'Core i3-3250T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 46 => object(stdClass) {
+			name => 'Core i3-4330'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 47 => object(stdClass) {
+			name => 'Core i3-4330T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 48 => object(stdClass) {
+			name => 'Core i3-4350'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 49 => object(stdClass) {
+			name => 'Core i3-4350T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 50 => object(stdClass) {
+			name => 'Core i3-4340'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 51 => object(stdClass) {
+			name => 'Core i3-4360'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 52 => object(stdClass) {
+			name => 'Core i5-4430'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 53 => object(stdClass) {
+			name => 'Core i5-4430S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 54 => object(stdClass) {
+			name => 'Core i5-4440'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 55 => object(stdClass) {
+			name => 'Core i5-4440S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 56 => object(stdClass) {
+			name => 'Core i5-4460'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 57 => object(stdClass) {
+			name => 'Core i5-4460S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 58 => object(stdClass) {
+			name => 'Core i5-4460T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 59 => object(stdClass) {
+			name => 'Core i5-4570'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 60 => object(stdClass) {
+			name => 'Core i5-4570S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 61 => object(stdClass) {
+			name => 'Core i5-4570T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 62 => object(stdClass) {
+			name => 'Core i5-4590'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 63 => object(stdClass) {
+			name => 'Core i5-4590S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 64 => object(stdClass) {
+			name => 'Core i5-4590T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 65 => object(stdClass) {
+			name => 'Core i5-4670'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 66 => object(stdClass) {
+			name => 'Core i5-4670S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 67 => object(stdClass) {
+			name => 'Core i5-4670T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 68 => object(stdClass) {
+			name => 'Core i5-4690'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 69 => object(stdClass) {
+			name => 'Core i5-4690S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 70 => object(stdClass) {
+			name => 'Core i5-4690T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 71 => object(stdClass) {
+			name => 'Core i5-4670K'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 72 => object(stdClass) {
+			name => 'Core i5-4690K'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 73 => object(stdClass) {
+			name => 'Core i5-4570R'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 74 => object(stdClass) {
+			name => 'Core i5-4670R'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 75 => object(stdClass) {
+			name => 'Core i7-4765T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 76 => object(stdClass) {
+			name => 'Core i7-4770'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 77 => object(stdClass) {
+			name => 'Core i7-4770S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 78 => object(stdClass) {
+			name => 'Core i7-4770T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 79 => object(stdClass) {
+			name => 'Core i7-4785T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 80 => object(stdClass) {
+			name => 'Core i7-4790'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 81 => object(stdClass) {
+			name => 'Core i7-4790S'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 82 => object(stdClass) {
+			name => 'Core i7-4790T'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 83 => object(stdClass) {
+			name => 'Core i7-4771'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 84 => object(stdClass) {
+			name => 'Core i7-4820K'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 85 => object(stdClass) {
+			name => 'Core i7-4770K'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 86 => object(stdClass) {
+			name => 'Core i7-4790K'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 87 => object(stdClass) {
+			name => 'Core i7-4770R'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 88 => object(stdClass) {
+			name => 'Core i7-4930K'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		},
+		(int) 89 => object(stdClass) {
+			name => 'Core i7-4960X'
+			speed => '3.6GHz '
+			cache => ' 15MB L3 '
+			core => ' 6 cores '
+			socket => ' Socket 2011'
+		}
+	)
+}
